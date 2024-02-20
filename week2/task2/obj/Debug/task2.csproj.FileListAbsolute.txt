@@ -1,0 +1,2 @@
+E:\uniwork\2nd semester\PD\week2\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+E:\uniwork\2nd semester\PD\week2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+E:\uniwork\2nd semester\PD\week2\LMS\bin\Debug\LMS.exe.config
+E:\uniwork\2nd semester\PD\week2\LMS\bin\Debug\LMS.exe
+E:\uniwork\2nd semester\PD\week2\LMS\bin\Debug\LMS.pdb
+E:\uniwork\2nd semester\PD\week2\LMS\obj\Debug\LMS.csproj.AssemblyReference.cache
+E:\uniwork\2nd semester\PD\week2\LMS\obj\Debug\LMS.csproj.CoreCompileInputs.cache
+E:\uniwork\2nd semester\PD\week2\LMS\obj\Debug\LMS.exe
+E:\uniwork\2nd semester\PD\week2\LMS\obj\Debug\LMS.pdb
+E:\uniwork\2nd semester\PD\week2\2023-CS-76\LMS\bin\Debug\LMS.exe.config
+E:\uniwork\2nd semester\PD\week2\2023-CS-76\LMS\bin\Debug\LMS.exe
+E:\uniwork\2nd semester\PD\week2\2023-CS-76\LMS\bin\Debug\LMS.pdb
+E:\uniwork\2nd semester\PD\week2\2023-CS-76\LMS\obj\Debug\LMS.csproj.AssemblyReference.cache
+E:\uniwork\2nd semester\PD\week2\2023-CS-76\LMS\obj\Debug\LMS.csproj.CoreCompileInputs.cache
+E:\uniwork\2nd semester\PD\week2\2023-CS-76\LMS\obj\Debug\LMS.exe
+E:\uniwork\2nd semester\PD\week2\2023-CS-76\LMS\obj\Debug\LMS.pdb
