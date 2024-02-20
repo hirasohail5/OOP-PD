@@ -1,0 +1,10 @@
+E:\uniwork\2nd semester\PD\week3\task6\bin\Debug\task6.exe.config
+E:\uniwork\2nd semester\PD\week3\task6\bin\Debug\task6.exe
+E:\uniwork\2nd semester\PD\week3\task6\bin\Debug\task6.pdb
+E:\uniwork\2nd semester\PD\week3\task6\obj\Debug\task6.csproj.AssemblyReference.cache
+E:\uniwork\2nd semester\PD\week3\task6\obj\Debug\task6.csproj.CoreCompileInputs.cache
+E:\uniwork\2nd semester\PD\week3\task6\obj\Debug\task6.exe
+E:\uniwork\2nd semester\PD\week3\task6\obj\Debug\task6.pdb
+E:\uniwork\2nd semester\PD\week3\task6\bin\Debug\EZInput.dll
+E:\uniwork\2nd semester\PD\week3\task6\bin\Debug\EZInput.xml
+E:\uniwork\2nd semester\PD\week3\task6\obj\Debug\task6.csproj.CopyComplete

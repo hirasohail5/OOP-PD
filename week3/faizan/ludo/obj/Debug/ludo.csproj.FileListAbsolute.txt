@@ -1,0 +1,7 @@
+E:\uniwork\2nd semester\PD\week3\ludo\bin\Debug\ludo.exe.config
+E:\uniwork\2nd semester\PD\week3\ludo\bin\Debug\ludo.exe
+E:\uniwork\2nd semester\PD\week3\ludo\bin\Debug\ludo.pdb
+E:\uniwork\2nd semester\PD\week3\ludo\obj\Debug\ludo.csproj.AssemblyReference.cache
+E:\uniwork\2nd semester\PD\week3\ludo\obj\Debug\ludo.csproj.CoreCompileInputs.cache
+E:\uniwork\2nd semester\PD\week3\ludo\obj\Debug\ludo.exe
+E:\uniwork\2nd semester\PD\week3\ludo\obj\Debug\ludo.pdb

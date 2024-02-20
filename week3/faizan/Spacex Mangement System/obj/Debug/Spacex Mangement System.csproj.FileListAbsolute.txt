@@ -1,0 +1,14 @@
+E:\uniwork\2nd semester\OOP\week3\Spacex Mangement System\bin\Debug\Spacex Mangement System.exe.config
+E:\uniwork\2nd semester\OOP\week3\Spacex Mangement System\bin\Debug\Spacex Mangement System.exe
+E:\uniwork\2nd semester\OOP\week3\Spacex Mangement System\bin\Debug\Spacex Mangement System.pdb
+E:\uniwork\2nd semester\OOP\week3\Spacex Mangement System\obj\Debug\Spacex Mangement System.csproj.AssemblyReference.cache
+E:\uniwork\2nd semester\OOP\week3\Spacex Mangement System\obj\Debug\Spacex Mangement System.csproj.CoreCompileInputs.cache
+E:\uniwork\2nd semester\OOP\week3\Spacex Mangement System\obj\Debug\Spacex Mangement System.exe
+E:\uniwork\2nd semester\OOP\week3\Spacex Mangement System\obj\Debug\Spacex Mangement System.pdb
+E:\uniwork\2nd semester\PD\week3\faizan\Spacex Mangement System\bin\Debug\Spacex Mangement System.exe.config
+E:\uniwork\2nd semester\PD\week3\faizan\Spacex Mangement System\bin\Debug\Spacex Mangement System.exe
+E:\uniwork\2nd semester\PD\week3\faizan\Spacex Mangement System\bin\Debug\Spacex Mangement System.pdb
+E:\uniwork\2nd semester\PD\week3\faizan\Spacex Mangement System\obj\Debug\Spacex Mangement System.csproj.AssemblyReference.cache
+E:\uniwork\2nd semester\PD\week3\faizan\Spacex Mangement System\obj\Debug\Spacex Mangement System.csproj.CoreCompileInputs.cache
+E:\uniwork\2nd semester\PD\week3\faizan\Spacex Mangement System\obj\Debug\Spacex Mangement System.exe
+E:\uniwork\2nd semester\PD\week3\faizan\Spacex Mangement System\obj\Debug\Spacex Mangement System.pdb

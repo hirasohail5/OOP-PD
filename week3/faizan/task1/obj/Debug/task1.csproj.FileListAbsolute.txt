@@ -1,0 +1,7 @@
+E:\uniwork\2nd semester\PD\week3\task1\bin\Debug\task1.exe.config
+E:\uniwork\2nd semester\PD\week3\task1\bin\Debug\task1.exe
+E:\uniwork\2nd semester\PD\week3\task1\bin\Debug\task1.pdb
+E:\uniwork\2nd semester\PD\week3\task1\obj\Debug\task1.csproj.AssemblyReference.cache
+E:\uniwork\2nd semester\PD\week3\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+E:\uniwork\2nd semester\PD\week3\task1\obj\Debug\task1.exe
+E:\uniwork\2nd semester\PD\week3\task1\obj\Debug\task1.pdb
