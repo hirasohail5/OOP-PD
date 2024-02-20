@@ -1,0 +1,7 @@
+E:\uniwork\2nd semester\project\game\obj\Debug\game.csproj.AssemblyReference.cache
+E:\uniwork\2nd semester\project\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+E:\uniwork\2nd semester\project\game\bin\Debug\game.exe.config
+E:\uniwork\2nd semester\project\game\bin\Debug\game.exe
+E:\uniwork\2nd semester\project\game\bin\Debug\game.pdb
+E:\uniwork\2nd semester\project\game\obj\Debug\game.exe
+E:\uniwork\2nd semester\project\game\obj\Debug\game.pdb
